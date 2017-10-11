@@ -1,0 +1,15 @@
+{
+  "name": "mj-nginx",
+  "version": "0.1.0",
+  "author": "Ahmad",
+  "summary": "Well this is for nginx",
+  "license": "Apache",
+  "source": "https://github.com/ahmadbardolia/repo1.git",
+  "project_page": "this is my repo for test",
+  "issues_url": "https://github.com/ahmadbardolia/repo1/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
